@@ -28,7 +28,7 @@
 #include <framework/graphics/image.h>
 
 enum {
-    MAX_LIGHT_INTENSITY = 8,
+    MAX_LIGHT_INTENSITY = 15,
     MAX_AMBIENT_LIGHT_INTENSITY = 255
 };
 
